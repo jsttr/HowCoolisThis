@@ -1,3 +1,5 @@
 I added this file on the server. My next actions? Try to make a "pull" request? Basically download this to my local repo. Let's do it.
 
 I just had to sync from GitHub on Windows to download this file. Pull request doesn't bring it down.
+
+I'm trying to use pull requests.
