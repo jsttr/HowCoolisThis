@@ -1,3 +1,18 @@
 I added this file on the server. My next actions? Try to make a "pull" request? Basically download this to my local repo. Let's do it.
 
 I just had to sync from GitHub on Windows to download this file. Pull request doesn't bring it down.
+
+Push and Pull is not upload and download.
+
+Push is a commit/upload- so long as you have shared access/commit access.
+Pull is not essentially the "pulling down" of stuff from repository. It's more like asking to be pulled up to a repository that you don't have access to.
+
+Another way to "pull down" would simply be forking. But that's pull down in layman's terms - when you think push and pull do the exact opposite things.
+Which is probably why it's not just a plain "Pull" but a "Pull Request".
+
+And I think I should make a gist of this text file! Or should I?
+
+
+ha! So a pull request is my P4 equivalent of merge and integrate - except on a forked branch (usually) - and I'm not really the owner
+of the master branch (or source branch) so I have to ask them to "pull" my changes - review and accept to integrate them.
+There's an auto merge as well as manual merge - much like good ol' p4.
